@@ -1,2 +1,3 @@
-# adventofcode2021
-Advent of Code 2021 solutions
+# Advent of Code 2021 solutions
+
+Scala 3 solutions for advent of code
